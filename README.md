@@ -8,6 +8,7 @@ In the intricate landscape of human cognition, language is not merely a bridge f
 
 ![figures1223](https://github.com/universea/Robotics-Meet-Foundation-Models-Perspective/assets/13444641/0be4f76d-c422-4be4-a5df-08c1f1c5fb1f)
 
+![0203-Robotics meet LLM A Path Towards Silicon-based Life Intelligent Robot](https://github.com/universea/Robotics-Meet-Foundation-Models-Perspective/assets/13444641/2a4dba8c-6c66-4115-b051-80820c6c743b)
 
 
 ## Introduction 
