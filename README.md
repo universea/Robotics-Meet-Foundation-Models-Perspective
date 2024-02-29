@@ -27,7 +27,7 @@ In the following sections, we will explore how knowledge from the field of robot
 
 ## Questions
 
-\subsection{Sensing or Perception for LLM agents}
+### Sensing or Perception for LLM agents
 
 Traditional theory: Filter, Feature extraction, Fusing, Signal processing, FFT, CV, etc.
 
@@ -46,7 +46,7 @@ Can sensor data other than language be described using language?
 How to processing two or more kinds of data at the same time? (Language + others).
 
 
-\subsection{Control theory for LLM agents}
+### Control theory for LLM agents
 
 Feedback control: How can an agent achieve self-reflection?
 
@@ -66,7 +66,7 @@ Reinforcement learning: How to realize self-improvement, lifelong learning?
 
 MIMO controller: How to make agents have the ability of dealing with multitask? 
 
-\subsection{Planning theory for LLM agents}
+### Planning theory for LLM agents
 
 Global planning: Long-Term Goal Setting and Strategy Formulation.
 
