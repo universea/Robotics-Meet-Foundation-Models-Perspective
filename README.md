@@ -87,3 +87,16 @@ Dynamic planning: Resource Optimization and Adaptability.
 How to use traditional planning algorithm like A*, Dijkstra, dynamic planning, RRT, RRT* etc, to improve the CoT, ToT, GoT, CoC, etc?
 
 Reinforcement learning: Reward in Thought, online self-improvement, online-self-reflection.
+
+
+## Citation
+'''
+bibtex
+@misc{universea-rototicsllm,
+  title        = {Large Language Models Meet Robotics: A Path Towards Silicon-based Life Intelligence},
+  author       = {Pengsong Zhang},
+  year         = {2024},
+  howpublished = {GitHub},
+  url          = {https://github.com/universea/Robotics-Meet-Foundation-Models-Perspective}
+}
+'''
