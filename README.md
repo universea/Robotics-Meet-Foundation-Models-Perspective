@@ -90,7 +90,7 @@ Reinforcement learning: Reward in Thought, online self-improvement, online-self-
 
 
 ## Citation
-'''
+```
 bibtex
 @misc{universea-rototicsllm,
   title        = {Large Language Models Meet Robotics: A Path Towards Silicon-based Life Intelligence},
@@ -99,4 +99,4 @@ bibtex
   howpublished = {GitHub},
   url          = {https://github.com/universea/Robotics-Meet-Foundation-Models-Perspective}
 }
-'''
+```
